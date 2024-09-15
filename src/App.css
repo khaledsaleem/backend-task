@@ -1,0 +1,24 @@
+/* Add this in your App.css file */
+button {
+  padding: 10px 20px;
+  background-color: #f0f0f0;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
+
+button.play-again {
+  background-color: #28a745;
+  color: white;
+}
+
+button.play-again:hover {
+  background-color: #218838;
+}
+/* kbkjhllk */
